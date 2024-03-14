@@ -92,6 +92,7 @@
       "System.Security.Principal.Windows/4.7.0": {},
       "SistemasVentas.DAL/1.0.0": {
         "dependencies": {
+          "SistemaVentas.Modelos": "1.0.0",
           "System.Data.SqlClient": "4.8.6"
         },
         "runtime": {

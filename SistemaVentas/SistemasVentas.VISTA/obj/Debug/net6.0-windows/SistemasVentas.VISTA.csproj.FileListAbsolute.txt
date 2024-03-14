@@ -29,3 +29,4 @@ D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6
 D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.pdb
 D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.genruntimeconfig.cache
 D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\ref\SistemasVentas.VISTA.dll
+D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.PersonasVISTA.PersonaInsertarVista.resources

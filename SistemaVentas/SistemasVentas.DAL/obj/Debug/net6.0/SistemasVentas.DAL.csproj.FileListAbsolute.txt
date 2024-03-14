@@ -10,3 +10,6 @@ D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net6.0
 D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net6.0\refint\SistemasVentas.DAL.dll
 D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net6.0\SistemasVentas.DAL.pdb
 D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net6.0\ref\SistemasVentas.DAL.dll
+D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.DAL\bin\Debug\net6.0\SistemaVentas.Modelos.dll
+D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.DAL\bin\Debug\net6.0\SistemaVentas.Modelos.pdb
+D:\remoto2\sistemaventasncapas\SistemaVentas\SistemasVentas.DAL\obj\Debug\net6.0\SistemasVentas.DAL.csproj.CopyComplete

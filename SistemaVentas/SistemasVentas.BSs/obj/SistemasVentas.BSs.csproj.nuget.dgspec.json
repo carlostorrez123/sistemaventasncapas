@@ -99,7 +99,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\remoto2\\sistemaventasncapas\\SistemaVentas\\SistemaVentas.Modelos\\SistemaVentas.Modelos.csproj": {
+                "projectPath": "D:\\remoto2\\sistemaventasncapas\\SistemaVentas\\SistemaVentas.Modelos\\SistemaVentas.Modelos.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
