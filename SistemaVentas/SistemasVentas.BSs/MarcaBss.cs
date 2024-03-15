@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SistemasVentas.DAL;
+using SistemaVentas.Modelos;
 
 namespace SistemasVentas.BSs
 {
@@ -15,5 +16,12 @@ namespace SistemasVentas.BSs
         {
             return dal.ListarMarcaDal();
         }
+        public void InsertarMarcaBSs(Marca marca)
+        {
+            dal.InsertarMarcaDal(marca);
+
+        }
+
+
     }
 }

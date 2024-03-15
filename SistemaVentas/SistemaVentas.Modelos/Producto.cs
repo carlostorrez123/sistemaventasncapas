@@ -9,7 +9,7 @@ namespace SistemaVentas.Modelos
 {
     public class Producto
     {
-        public int IdProdcuto { get; set; }
+        public int IdProducto { get; set; }
         public int IdTipoProd { get; set; }
         public int IdMarca { get; set; }
         public string Nombre { get; set; }

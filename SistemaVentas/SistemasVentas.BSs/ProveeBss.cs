@@ -5,15 +5,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SistemasVentas.DAL;
+using SistemaVentas.Modelos;
 
 namespace SistemasVentas.BSs
 {
-    internal class ProveeBss
+    public class ProveeBss
     {
         ProveeDal dal = new ProveeDal();
-        public DataTable ListarUsuarioBss()
+        public DataTable ListarProveeBss()
         {
             return dal.ListarProveeDal();
+        }
+        public void InsertarProveeBSs(Provee provee)
+        {
+            dal.InsertarProveeDal(provee);
         }
     }
 }

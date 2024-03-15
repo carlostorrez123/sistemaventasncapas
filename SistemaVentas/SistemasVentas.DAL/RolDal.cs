@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SistemaVentas.Modelos;
 
+
 namespace SistemasVentas.DAL
 {
     public class RolDal
@@ -21,6 +22,8 @@ namespace SistemasVentas.DAL
         {
             string consulta = "insert int rol values('" + rol.Nombre + "'," +
                                                      "'Activo')";
+
+            conexion.Ejecutar(consulta);
         }
     }
 }

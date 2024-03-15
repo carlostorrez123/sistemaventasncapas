@@ -62,3 +62,6 @@ D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net
 D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.pdb
 D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.genruntimeconfig.cache
 D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\ref\SistemasVentas.VISTA.dll
+D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.RolVista.RolListarVista.resources
+D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.RolVista.RolInsertarVista.resources
+D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.TipoprodVista.TipoprodListaVista.resources

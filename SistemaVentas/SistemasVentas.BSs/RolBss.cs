@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SistemasVentas.DAL;
+using SistemaVentas.Modelos;
 
 namespace SistemasVentas.BSs
 {
@@ -14,6 +15,10 @@ namespace SistemasVentas.BSs
         public DataTable ListarRolBss()
         {
             return dal.ListarRolDal();
+        }
+        public void InsertarRolBSs(Rol rol)
+        {
+            dal.InserarRolDal(rol);
         }
     }
 }

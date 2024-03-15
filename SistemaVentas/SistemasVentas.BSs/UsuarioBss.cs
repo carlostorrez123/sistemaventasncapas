@@ -9,12 +9,21 @@ using SistemaVentas.Modelos;
 
 namespace SistemasVentas.BSs
 {
-    internal class UsuarioBss
+    public class UsuarioBss
     {
         UsuarioDal dal = new UsuarioDal();
         public DataTable ListarUsuarioBss()
         {
             return dal.ListarUsuarioDal();
+        }
+        public void InsertarUsuarioBSs(Usuario usuario)
+        {
+            dal.InsertarUsuarioDal(usuario);
+        }
+
+        public void InsertarUsuarioBSs(Persona p)
+        {
+            throw new NotImplementedException();
         }
     }
 }

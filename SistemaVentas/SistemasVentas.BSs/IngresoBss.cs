@@ -5,15 +5,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SistemasVentas.DAL;
+using SistemaVentas.Modelos;
 
 namespace SistemasVentas.BSs
 {
     public class IngresoBss
     {
-        UsuarioDal dal = new UsuarioDal();
-        public DataTable ListarUsuarioBss()
+        IngresoDal dal = new IngresoDal();
+        public DataTable ListarIngresoBss()
         {
-            return dal.ListarUsuarioDal();
+            return dal.ListarIngresoDal();
+        }
+        public void InsertarIngresoBSs(Ingreso ingreso)
+        {
+            dal.InsertarIngresoDal(ingreso);
         }
     }
 }
