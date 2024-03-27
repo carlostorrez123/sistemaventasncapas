@@ -505,23 +505,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CHAPS\\.nuget\\packages\\": {},
+    "C:\\Users\\LABORATORIO A\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\proyecto\\sistemaventasncapas\\SistemaVentas\\SistemasVentas.BSs\\SistemasVentas.BSs.csproj",
+      "projectUniqueName": "D:\\remoto\\sistemaventasncapas\\SistemaVentas\\SistemasVentas.BSs\\SistemasVentas.BSs.csproj",
       "projectName": "SistemasVentas.BSs",
-      "projectPath": "D:\\proyecto\\sistemaventasncapas\\SistemaVentas\\SistemasVentas.BSs\\SistemasVentas.BSs.csproj",
-      "packagesPath": "C:\\Users\\CHAPS\\.nuget\\packages\\",
-      "outputPath": "D:\\proyecto\\sistemaventasncapas\\SistemaVentas\\SistemasVentas.BSs\\obj\\",
+      "projectPath": "D:\\remoto\\sistemaventasncapas\\SistemaVentas\\SistemasVentas.BSs\\SistemasVentas.BSs.csproj",
+      "packagesPath": "C:\\Users\\LABORATORIO A\\.nuget\\packages\\",
+      "outputPath": "D:\\remoto\\sistemaventasncapas\\SistemaVentas\\SistemasVentas.BSs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\CHAPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LABORATORIO A\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -530,17 +530,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\proyecto\\sistemaventasncapas\\SistemaVentas\\SistemasVentas.DAL\\SistemasVentas.DAL.csproj": {
-              "projectPath": "D:\\proyecto\\sistemaventasncapas\\SistemaVentas\\SistemasVentas.DAL\\SistemasVentas.DAL.csproj"
+            "D:\\remoto\\sistemaventasncapas\\SistemaVentas\\SistemasVentas.DAL\\SistemasVentas.DAL.csproj": {
+              "projectPath": "D:\\remoto\\sistemaventasncapas\\SistemaVentas\\SistemasVentas.DAL\\SistemasVentas.DAL.csproj"
             },
-            "D:\\proyecto\\sistemaventasncapas\\SistemaVentas\\SistemaVentas.Modelos\\SistemaVentas.Modelos.csproj": {
-              "projectPath": "D:\\proyecto\\sistemaventasncapas\\SistemaVentas\\SistemaVentas.Modelos\\SistemaVentas.Modelos.csproj"
+            "D:\\remoto\\sistemaventasncapas\\SistemaVentas\\SistemaVentas.Modelos\\SistemaVentas.Modelos.csproj": {
+              "projectPath": "D:\\remoto\\sistemaventasncapas\\SistemaVentas\\SistemaVentas.Modelos\\SistemaVentas.Modelos.csproj"
             }
           }
         }
@@ -570,7 +571,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

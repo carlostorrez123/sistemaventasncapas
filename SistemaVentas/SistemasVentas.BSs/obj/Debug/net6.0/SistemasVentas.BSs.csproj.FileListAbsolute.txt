@@ -32,3 +32,11 @@ D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.
 D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\refint\SistemasVentas.BSs.dll
 D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\SistemasVentas.BSs.pdb
 D:\proyecto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\ref\SistemasVentas.BSs.dll
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\SistemasVentas.BSs.csproj.AssemblyReference.cache
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\SistemasVentas.BSs.GeneratedMSBuildEditorConfig.editorconfig
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\SistemasVentas.BSs.AssemblyInfoInputs.cache
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\SistemasVentas.BSs.AssemblyInfo.cs
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\SistemasVentas.BSs.csproj.CoreCompileInputs.cache
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\SistemasVentas.BSs.dll
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\refint\SistemasVentas.BSs.dll
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.BSs\obj\Debug\net6.0\SistemasVentas.BSs.pdb

@@ -21,3 +21,14 @@ D:\proyecto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\ne
 D:\proyecto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\refint\SistemaVentas.Modelos.dll
 D:\proyecto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\SistemaVentas.Modelos.pdb
 D:\proyecto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\ref\SistemaVentas.Modelos.dll
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\bin\Debug\net6.0\SistemaVentas.Modelos.deps.json
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\bin\Debug\net6.0\SistemaVentas.Modelos.dll
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\bin\Debug\net6.0\SistemaVentas.Modelos.pdb
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\SistemaVentas.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\SistemaVentas.Modelos.AssemblyInfoInputs.cache
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\SistemaVentas.Modelos.AssemblyInfo.cs
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\SistemaVentas.Modelos.csproj.CoreCompileInputs.cache
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\SistemaVentas.Modelos.dll
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\refint\SistemaVentas.Modelos.dll
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\SistemaVentas.Modelos.pdb
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemaVentas.Modelos\obj\Debug\net6.0\ref\SistemaVentas.Modelos.dll

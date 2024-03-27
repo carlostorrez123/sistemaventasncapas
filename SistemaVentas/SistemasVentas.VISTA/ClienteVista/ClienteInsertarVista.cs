@@ -23,16 +23,21 @@ namespace SistemasVentas.VISTA.ClienteVista
         {
 
         }
-        ClienteBss bss=new ClienteBss();   
+        ClienteBss p = new ClienteBss();
         private void button1_Click(object sender, EventArgs e)
         {
             Cliente p = new Cliente();
-            p.IdPersona=textBox1.TabIndex;
+            p.IdPersona = textBox1.TabIndex;
             p.TipoCliente = textBox2.Text;
             p.CodigoCliente = textBox3.Text;
 
             bss.InsertarClienteBSs(p);
             MessageBox.Show("Se guardo correctamente");
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
