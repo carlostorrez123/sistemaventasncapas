@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using SistemasVentas.BSs;
+using SistemasVentas.BSS;
 
 namespace SistemasVentas.VISTA.ClienteVista
 {
@@ -17,7 +18,7 @@ namespace SistemasVentas.VISTA.ClienteVista
         {
             InitializeComponent();
         }
-        ClienteBss bss=new ClienteBss();
+        ClienteBss bss = new ClienteBss();
         private void ClienteListarVista_Load(object sender, EventArgs e)
         {
             dataGridView1.DataSource = bss.ListarClienteBss();
