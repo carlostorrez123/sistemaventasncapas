@@ -18,17 +18,21 @@ namespace SistemasVentas.VISTA.VentaVista
         {
             InitializeComponent();
         }
-        VentaBss bss=new VentaBss();
+        VentaBss bss = new VentaBss();
         private void button1_Click(object sender, EventArgs e)
         {
             Venta p = new Venta();
             p.IdCliente = textBox1.TabIndex;
             p.IdVendedor = textBox2.TabIndex;
-            p.Fecha = textBox3.Text;
             p.Total = textBox4.TabIndex;
 
             bss.InsertarVentaBSs(p);
             MessageBox.Show("Se guardo correctamente");
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

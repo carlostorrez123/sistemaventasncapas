@@ -18,15 +18,10 @@ namespace SistemasVentas.VISTA.UsuarioVista
         {
             InitializeComponent();
         }
-        UsuarioBss bss=new UsuarioBss(); 
+    
         private void button1_Click(object sender, EventArgs e)
         {
-            Persona p= new Persona();
-            p.Usuario = textBox1.Text;
-            p.Contraseña = textBox2.Text;
-
-            bss.InsertarUsuarioBSs(p);
-            MessageBox.Show("Se guardo correctamente");
+            
         }
 
         private void UsuarioInsertarVista_Load(object sender, EventArgs e)

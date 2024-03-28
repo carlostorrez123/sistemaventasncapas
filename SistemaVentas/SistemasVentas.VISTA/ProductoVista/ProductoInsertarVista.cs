@@ -19,12 +19,12 @@ namespace SistemasVentas.VISTA.ProductoVista
             InitializeComponent();
         }
 
-        private void ProductoInsertarVista_Load(object sender, EventArgs e)
+        public void ProductoInsertarVista_Load(object sender, EventArgs e)
         {
 
         }
         ProductoBss bss = new ProductoBss();
-        private void button1_Click(object sender, EventArgs e)
+        public void button1_Click(object sender, EventArgs e)
         {
             Producto p = new Producto();
             p.IdTipoProd = textBox1.TabIndex;

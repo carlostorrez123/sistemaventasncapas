@@ -103,3 +103,5 @@ D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.
 D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.dll
 D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\refint\SistemasVentas.VISTA.dll
 D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.pdb
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.ClienteVista.ClienteEditarVista.resources
+D:\remoto\sistemaventasncapas\SistemaVentas\SistemasVentas.VISTA\obj\Debug\net6.0-windows\SistemasVentas.VISTA.VentaVista.VentaEditarVista.resources
